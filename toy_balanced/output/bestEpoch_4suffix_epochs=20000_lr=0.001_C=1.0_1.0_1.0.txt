@@ -1,0 +1,107 @@
+Best epoch was 19999
+Loss at best epoch was 54.8031358469571
+Weights:
+*V-Obs-V	2.1974578241554066
+Max	3.258120074916737
+ID-lat	3.258120074916737
+Scales:
+s0
+	*V-Obs-V	0.3673033853481107
+	Max	0.0
+	ID-lat	0.0
+s1
+	*V-Obs-V	0.3673033853481107
+	Max	0.0
+	ID-lat	0.0
+s2
+	*V-Obs-V	0.3673033853481107
+	Max	0.0
+	ID-lat	0.0
+s3
+	*V-Obs-V	0.3673033853481107
+	Max	0.0
+	ID-lat	0.0
+s4
+	*V-Obs-V	0.3673033853481107
+	Max	0.0
+	ID-lat	0.0
+s5
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+s6
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+s7
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+s8
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+s9
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+s10
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+s11
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+s12
+	*V-Obs-V	0.3673033853481107
+	Max	0.0
+	ID-lat	0.0
+s13
+	*V-Obs-V	0.3673033853481107
+	Max	0.0
+	ID-lat	0.0
+s14
+	*V-Obs-V	0.3673033853481107
+	Max	0.0
+	ID-lat	0.0
+s15
+	*V-Obs-V	0.3673033853481107
+	Max	0.0
+	ID-lat	0.0
+s16
+	*V-Obs-V	0.3673033853481107
+	Max	0.0
+	ID-lat	0.0
+s17
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+s18
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+s19
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+s20
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+p0
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+p1
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+p2
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0
+p3
+	*V-Obs-V	0.0
+	Max	0.0
+	ID-lat	0.0

@@ -1,0 +1,778 @@
+Best epoch was 19999
+Loss at best epoch was 214.2464622015694
+Weights:
+*VcV	0.0
+Max	3.998654421867368
+ID-C	1.785465494842704
+ID-lat	3.662352607820205
+Scales:
+s0
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s1
+	*VcV	0.4730082872317788
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s2
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s3
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s4
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s5
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s6
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s7
+	*VcV	0.0
+	Max	0.0
+	ID-C	1.229145431415878
+	ID-lat	0.0
+s8
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s9
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s10
+	*VcV	0.03689278912226551
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s11
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s12
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s13
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s14
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s15
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s16
+	*VcV	0.09775984103391727
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s17
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s18
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s19
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s20
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s21
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s22
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s23
+	*VcV	0.5886396746989571
+	Max	0.0
+	ID-C	1.2117569743492733
+	ID-lat	0.0
+s24
+	*VcV	0.05652972728263747
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s25
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s26
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s27
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s28
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s29
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s30
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s31
+	*VcV	0.1449079418587509
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s32
+	*VcV	0.0
+	Max	0.0
+	ID-C	1.1914232136673402
+	ID-lat	0.0
+s33
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s34
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s35
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.5621830600426317
+	ID-lat	0.0
+s36
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s37
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s38
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s39
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s40
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s41
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s42
+	*VcV	0.07535922035793798
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s43
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s44
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s45
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s46
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s47
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s48
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s49
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s50
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s51
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.8222232460633437
+	ID-lat	0.0
+s52
+	*VcV	0.0
+	Max	0.0
+	ID-C	1.6595629246194366
+	ID-lat	0.0
+s53
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.12541663693573135
+	ID-lat	0.0
+s54
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s55
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s56
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s57
+	*VcV	2.916217138738938
+	Max	0.0
+	ID-C	2.8809023951830186
+	ID-lat	1.4341542214163614
+s58
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s59
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s60
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s61
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s62
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s63
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s64
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s65
+	*VcV	0.02860270966933228
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s66
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s67
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.5158711454184828
+	ID-lat	0.0
+s68
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s69
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s70
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s71
+	*VcV	0.7411371806586503
+	Max	0.0
+	ID-C	1.1952020032575459
+	ID-lat	0.0
+s72
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s73
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s74
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s75
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s76
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s77
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s78
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s79
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s80
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s81
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s82
+	*VcV	1.9708803332138523
+	Max	0.0
+	ID-C	1.5318667386844227
+	ID-lat	0.0
+s83
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s84
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s85
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s86
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s87
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s88
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s89
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s90
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.36038856473036185
+	ID-lat	0.0
+s91
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.07663977270755944
+	ID-lat	0.0
+s92
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+s93
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p0
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p1
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p2
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p3
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p4
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p5
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p6
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.13574547258359346
+	ID-lat	0.0
+p7
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p8
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p9
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p10
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p11
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p12
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p13
+	*VcV	2.154558571263867
+	Max	0.0
+	ID-C	0.20926097691938678
+	ID-lat	0.0
+p14
+	*VcV	1.7988423827751319
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p15
+	*VcV	2.698118168026681
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p16
+	*VcV	2.155823308065761
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p17
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p18
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p19
+	*VcV	2.6427404975883686
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p20
+	*VcV	0.38856104160505833
+	Max	0.0
+	ID-C	0.21395598547512834
+	ID-lat	0.0
+p21
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p22
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p23
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p24
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p25
+	*VcV	1.5802094214945048
+	Max	0.0
+	ID-C	1.8180735228032607
+	ID-lat	0.0
+p26
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p27
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p28
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p29
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p30
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p31
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p32
+	*VcV	0.0
+	Max	0.0
+	ID-C	1.1274315423894434
+	ID-lat	0.0
+p33
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p34
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p35
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.36549554736771234
+	ID-lat	0.0
+p36
+	*VcV	0.0
+	Max	0.0
+	ID-C	1.3919895705731657
+	ID-lat	0.0
+p37
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p38
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p39
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p40
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p41
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p42
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.5344394624501235
+	ID-lat	0.0
+p43
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p44
+	*VcV	3.1221914322305504
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p45
+	*VcV	1.532306261842814
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p46
+	*VcV	1.5120490196499052
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p47
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p48
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p49
+	*VcV	5.045034317113499
+	Max	0.3657034122252316
+	ID-C	0.0
+	ID-lat	1.3950914235964524
+p50
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p51
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p52
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p53
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.6449287363239836
+	ID-lat	0.0
+p54
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p55
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p56
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p57
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p58
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0
+p59
+	*VcV	0.0
+	Max	0.0
+	ID-C	0.0
+	ID-lat	0.0

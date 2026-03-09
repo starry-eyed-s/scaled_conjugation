@@ -1,0 +1,31 @@
+{
+  "t-irregular": [
+    "tat",
+    "jat",
+    "ket",
+    "pot",
+    "chit"
+  ],
+  "t-regular": [
+    "ppeut",
+    "goet",
+    "jot",
+    "pput",
+    "nat",
+    "kkut",
+    "sit"
+  ],
+  "s-irregular": [
+    "ges",
+    "kkaes",
+    "hoes",
+    "koes",
+    "nos"
+  ],
+  "s-regular": [
+    "poes",
+    "meos",
+    "jjaes",
+    "ches"
+  ]
+}

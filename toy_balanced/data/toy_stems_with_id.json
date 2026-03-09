@@ -1,0 +1,31 @@
+{
+  "t-irregular": {
+    "s0": "tat",
+    "s1": "jat",
+    "s2": "ket",
+    "s3": "pot",
+    "s4": "chit"
+  },
+  "t-regular": {
+    "s5": "ppeut",
+    "s6": "goet",
+    "s7": "jot",
+    "s8": "pput",
+    "s9": "nat",
+    "s10": "kkut",
+    "s11": "sit"
+  },
+  "s-irregular": {
+    "s12": "ges",
+    "s13": "kkaes",
+    "s14": "hoes",
+    "s15": "koes",
+    "s16": "nos"
+  },
+  "s-regular": {
+    "s17": "poes",
+    "s18": "meos",
+    "s19": "jjaes",
+    "s20": "ches"
+  }
+}
